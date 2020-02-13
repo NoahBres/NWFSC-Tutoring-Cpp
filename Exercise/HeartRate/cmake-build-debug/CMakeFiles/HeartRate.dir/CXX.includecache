@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/noahb/OneDrive/Documents/Dev/C++ Tutoring/Exercise/HeartRate/HeartRates.cpp
+iostream
+-
+HeartRates.h
+/mnt/c/Users/noahb/OneDrive/Documents/Dev/C++ Tutoring/Exercise/HeartRate/HeartRates.h
+
+/mnt/c/Users/noahb/OneDrive/Documents/Dev/C++ Tutoring/Exercise/HeartRate/HeartRates.h
+string
+-
+ctime
+-
+

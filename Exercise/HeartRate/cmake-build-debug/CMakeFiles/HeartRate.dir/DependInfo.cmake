@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/mnt/c/Users/noahb/OneDrive/Documents/Dev/C++ Tutoring/Exercise/HeartRate/main.cpp" "/mnt/c/Users/noahb/OneDrive/Documents/Dev/C++ Tutoring/Exercise/HeartRate/cmake-build-debug/CMakeFiles/HeartRate.dir/main.cpp.o"
+  "/mnt/c/Users/noahb/OneDrive/Documents/Dev/C++ Tutoring/Exercise/HeartRate/HeartRates.cpp" "/mnt/c/Users/noahb/OneDrive/Documents/Dev/C++ Tutoring/Exercise/HeartRate/cmake-build-debug/CMakeFiles/HeartRate.dir/HeartRates.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

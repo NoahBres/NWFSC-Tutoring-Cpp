@@ -84,7 +84,10 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/mnt/c/Users/noahb/OneDrive/Documents/Dev/C++ Tutoring/Exercise/HeartRate/main.cpp">
+		<Unit filename="/mnt/c/Users/noahb/OneDrive/Documents/Dev/C++ Tutoring/Exercise/HeartRate/HeartRates.cpp">
+			<Option target="HeartRate"/>
+		</Unit>
+		<Unit filename="/mnt/c/Users/noahb/OneDrive/Documents/Dev/C++ Tutoring/Exercise/HeartRate/HeartRates.h">
 			<Option target="HeartRate"/>
 		</Unit>
 		<Unit filename="/mnt/c/Users/noahb/OneDrive/Documents/Dev/C++ Tutoring/Exercise/HeartRate/CMakeLists.txt">

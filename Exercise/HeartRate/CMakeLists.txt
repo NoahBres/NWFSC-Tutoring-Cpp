@@ -3,4 +3,4 @@ project(HeartRate)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(HeartRate main.cpp)
+add_executable(HeartRate HeartRates.cpp HeartRates.h)

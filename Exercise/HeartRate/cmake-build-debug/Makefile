@@ -123,32 +123,32 @@ HeartRate/fast:
 	$(MAKE) -f CMakeFiles/HeartRate.dir/build.make CMakeFiles/HeartRate.dir/build
 .PHONY : HeartRate/fast
 
-main.o: main.cpp.o
+HeartRates.o: HeartRates.cpp.o
 
-.PHONY : main.o
+.PHONY : HeartRates.o
 
 # target to build an object file
-main.cpp.o:
-	$(MAKE) -f CMakeFiles/HeartRate.dir/build.make CMakeFiles/HeartRate.dir/main.cpp.o
-.PHONY : main.cpp.o
+HeartRates.cpp.o:
+	$(MAKE) -f CMakeFiles/HeartRate.dir/build.make CMakeFiles/HeartRate.dir/HeartRates.cpp.o
+.PHONY : HeartRates.cpp.o
 
-main.i: main.cpp.i
+HeartRates.i: HeartRates.cpp.i
 
-.PHONY : main.i
+.PHONY : HeartRates.i
 
 # target to preprocess a source file
-main.cpp.i:
-	$(MAKE) -f CMakeFiles/HeartRate.dir/build.make CMakeFiles/HeartRate.dir/main.cpp.i
-.PHONY : main.cpp.i
+HeartRates.cpp.i:
+	$(MAKE) -f CMakeFiles/HeartRate.dir/build.make CMakeFiles/HeartRate.dir/HeartRates.cpp.i
+.PHONY : HeartRates.cpp.i
 
-main.s: main.cpp.s
+HeartRates.s: HeartRates.cpp.s
 
-.PHONY : main.s
+.PHONY : HeartRates.s
 
 # target to generate assembly for a file
-main.cpp.s:
-	$(MAKE) -f CMakeFiles/HeartRate.dir/build.make CMakeFiles/HeartRate.dir/main.cpp.s
-.PHONY : main.cpp.s
+HeartRates.cpp.s:
+	$(MAKE) -f CMakeFiles/HeartRate.dir/build.make CMakeFiles/HeartRate.dir/HeartRates.cpp.s
+.PHONY : HeartRates.cpp.s
 
 # Help Target
 help:
@@ -159,9 +159,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... HeartRate"
 	@echo "... edit_cache"
-	@echo "... main.o"
-	@echo "... main.i"
-	@echo "... main.s"
+	@echo "... HeartRates.o"
+	@echo "... HeartRates.i"
+	@echo "... HeartRates.s"
 .PHONY : help
 
 

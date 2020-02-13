@@ -57,27 +57,27 @@ include CMakeFiles/HeartRate.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/HeartRate.dir/flags.make
 
-CMakeFiles/HeartRate.dir/main.cpp.o: CMakeFiles/HeartRate.dir/flags.make
-CMakeFiles/HeartRate.dir/main.cpp.o: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/mnt/c/Users/noahb/OneDrive/Documents/Dev/C++ Tutoring/Exercise/HeartRate/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/HeartRate.dir/main.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/HeartRate.dir/main.cpp.o -c "/mnt/c/Users/noahb/OneDrive/Documents/Dev/C++ Tutoring/Exercise/HeartRate/main.cpp"
+CMakeFiles/HeartRate.dir/HeartRates.cpp.o: CMakeFiles/HeartRate.dir/flags.make
+CMakeFiles/HeartRate.dir/HeartRates.cpp.o: ../HeartRates.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir="/mnt/c/Users/noahb/OneDrive/Documents/Dev/C++ Tutoring/Exercise/HeartRate/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/HeartRate.dir/HeartRates.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/HeartRate.dir/HeartRates.cpp.o -c "/mnt/c/Users/noahb/OneDrive/Documents/Dev/C++ Tutoring/Exercise/HeartRate/HeartRates.cpp"
 
-CMakeFiles/HeartRate.dir/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/HeartRate.dir/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/mnt/c/Users/noahb/OneDrive/Documents/Dev/C++ Tutoring/Exercise/HeartRate/main.cpp" > CMakeFiles/HeartRate.dir/main.cpp.i
+CMakeFiles/HeartRate.dir/HeartRates.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/HeartRate.dir/HeartRates.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/mnt/c/Users/noahb/OneDrive/Documents/Dev/C++ Tutoring/Exercise/HeartRate/HeartRates.cpp" > CMakeFiles/HeartRate.dir/HeartRates.cpp.i
 
-CMakeFiles/HeartRate.dir/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/HeartRate.dir/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/mnt/c/Users/noahb/OneDrive/Documents/Dev/C++ Tutoring/Exercise/HeartRate/main.cpp" -o CMakeFiles/HeartRate.dir/main.cpp.s
+CMakeFiles/HeartRate.dir/HeartRates.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/HeartRate.dir/HeartRates.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/mnt/c/Users/noahb/OneDrive/Documents/Dev/C++ Tutoring/Exercise/HeartRate/HeartRates.cpp" -o CMakeFiles/HeartRate.dir/HeartRates.cpp.s
 
 # Object files for target HeartRate
 HeartRate_OBJECTS = \
-"CMakeFiles/HeartRate.dir/main.cpp.o"
+"CMakeFiles/HeartRate.dir/HeartRates.cpp.o"
 
 # External object files for target HeartRate
 HeartRate_EXTERNAL_OBJECTS =
 
-HeartRate: CMakeFiles/HeartRate.dir/main.cpp.o
+HeartRate: CMakeFiles/HeartRate.dir/HeartRates.cpp.o
 HeartRate: CMakeFiles/HeartRate.dir/build.make
 HeartRate: CMakeFiles/HeartRate.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir="/mnt/c/Users/noahb/OneDrive/Documents/Dev/C++ Tutoring/Exercise/HeartRate/cmake-build-debug/CMakeFiles" --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable HeartRate"

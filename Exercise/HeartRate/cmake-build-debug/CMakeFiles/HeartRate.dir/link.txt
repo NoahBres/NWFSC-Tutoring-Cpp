@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/HeartRate.dir/main.cpp.o  -o HeartRate 
+/usr/bin/c++  -g   CMakeFiles/HeartRate.dir/HeartRates.cpp.o  -o HeartRate 

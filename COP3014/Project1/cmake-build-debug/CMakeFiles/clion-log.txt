@@ -1,0 +1,4 @@
+"/Users/noah/Library/Application Support/JetBrains/Toolbox/apps/CLion/ch-0/202.7319.72/CLion.app/Contents/bin/cmake/mac/bin/cmake" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/noah/Dev/NWFSC-Tutoring-Cpp/COP3014/Project1
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/noah/Dev/NWFSC-Tutoring-Cpp/COP3014/Project1/cmake-build-debug
